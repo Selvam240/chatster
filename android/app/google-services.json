@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78501150833",
+    "project_id": "chatster-b49b7",
+    "storage_bucket": "chatster-b49b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78501150833:android:e5e62fff4176d789ee9bd0",
+        "android_client_info": {
+          "package_name": "com.example.chatster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78501150833-hn2nu0b014k411vgqb7onv3v492c2kcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzh1U73lXew9KBR94r9ycxsbRwQ5_U1EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78501150833-hn2nu0b014k411vgqb7onv3v492c2kcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
